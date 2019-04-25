@@ -1,0 +1,38 @@
+{
+  "name": "tfoyt09-examination-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1dv527/tfoyt09-examination-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1dv527/tfoyt09-examination-3/issues"
+  },
+  "homepage": "https://github.com/1dv527/tfoyt09-examination-3#readme",
+  "dependencies": {
+    "ada-tsl2561": "^1.0.0",
+    "bindings": "^1.5.0",
+    "bme280-sensor": "^0.1.6",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "i2c": "^0.2.3",
+    "i2c-bus": "^4.0.9",
+    "jsonwebtoken": "^8.5.0",
+    "node-gyp": "^3.8.0",
+    "pi-gpio": "0.0.8",
+    "pigpio": "^1.2.2",
+    "pigpio-dht": "^1.1.1",
+    "request": "^2.88.0",
+    "sensor_tsl2561": "^0.2.2"
+  }
+}
